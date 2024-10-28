@@ -14,6 +14,6 @@ Previously I would avoid thinking about that Intro class, because it brought bac
 
 ### License - Creative Commons Zero v1.0 Universal
 
-<img src="images/cc-zero.png">
+<img src="docs/images/cc-zero.png">
 
 CC0 is a public dedication tool, which enables creators to give up their copyright and put their works into the worldwide public domain. CC0 enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, with no conditions. Unless expressly stated otherwise, the person who associated a work with this deed makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law. 
