@@ -12,8 +12,8 @@ Years have passed and I never had it in me to pick up where I left off. For so l
 
 Previously I would avoid thinking about that Intro class, because it brought back painful memories of failure. In uploading these webpages, I am framing a permanent reminder of my past failure. I do not want to ignore it any longer. I want to acknowledge where I've fallen short, and let that encourage me to move forward. 
 
-### License
+### License - Creative Commons Zero v1.0 Universal
 
-#### Creative Commons Zero v1.0 Universal
+<img src="images/cc-zero.png">
 
-The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.
+CC0 is a public dedication tool, which enables creators to give up their copyright and put their works into the worldwide public domain. CC0 enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, with no conditions. Unless expressly stated otherwise, the person who associated a work with this deed makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law. 
