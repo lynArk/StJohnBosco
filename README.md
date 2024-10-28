@@ -1,6 +1,8 @@
-# StJohnBosco
+# St. John Bosco
 
 ### My very first webpages, dedicated to a Catholic Saint, for the bit.
+
+<img src="docs/images/bosco-w-children.png" height="300px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="docs/images/bosco-sticks.png" height="300px">
 
 When I was in high school, I took an "Intro to Computer Science" class. I was captivated by everything related to computers. At the time, I "didn't know what I didn't know", as they say. I had little knowledge about the industry, and had no technical skills to speak of. But still, I did someday see myself making a living off of that budding interest of mine. So, "Intro to Computer Science" was an easy and intriguing choice.
 
