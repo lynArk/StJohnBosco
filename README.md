@@ -1,4 +1,4 @@
-# St. John Bosco
+# [St. John Bosco](https://lynark.github.io/StJohnBosco/ "hosted w/ Github Pages!")
 
 ### My very first webpages, dedicated to a Catholic Saint, for the bit.
 
@@ -12,7 +12,7 @@ I quite enjoyed researching Bosco and creating a little "website" about him. Unf
 
 Years have passed and I never had it in me to pick up where I left off. For so long, I was caught up in self-pity. Everything was "keeping me away" from pursuing my interests. It wasn't until recently, that I realized the only real obstacle was myself. I don't need to fear being too far behind to start, or that I'm simply not capable. The truth is that I can learn whatever I want, whenever I want. And while I don't necessarily want to build websites, I know now that my interest lies specifically in system administration and cloud computing. I can do those things, so I will.
 
-Previously I would avoid thinking about that Intro class, because it brought back painful memories of failure. In uploading these webpages, I am framing a permanent reminder of my past failure. I do not want to ignore it any longer. I want to acknowledge where I've fallen short, and let that encourage me to move forward. 
+Previously I would avoid thinking about that Intro class, because it brought back painful memories of failure. In uploading these webpages, I am framing a permanent reminder of my past failure. I do not want to ignore it any longer. I want to acknowledge where I've fallen short, and let that encourage me to move forward. Also, I still think it's funny. 
 
 ### License - Creative Commons Zero v1.0 Universal
 
