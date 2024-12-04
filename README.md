@@ -1,4 +1,4 @@
-# [St. John Bosco](https://lynark.github.io/StJohnBosco/ "hosted w/ Github Pages!")
+# [St. John Bosco](https://bosco.allencloud.dev/) "hosted w/ Github Pages!")
 
 ### My very first webpages, dedicated to a Catholic Saint, for the bit.
 
